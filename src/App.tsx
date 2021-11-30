@@ -45,7 +45,7 @@ function App() {
         </div>
         <div>
           <div>
-            <label className="input-label">Initial Price</label>
+            <label className="input-label">Number of Stocks</label>
           </div>
           <input
             className="input"
@@ -56,7 +56,7 @@ function App() {
         </div>
         <div>
           <div>
-            <label className="input-label">Initial Price</label>
+            <label className="input-label">Current Price</label>
           </div>
           <input
             className="input"
